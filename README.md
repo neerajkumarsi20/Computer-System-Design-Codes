@@ -1,4 +1,4 @@
-## Artificial Intelligence and Data Science
+## Computer System Design
 
 ![Verilog](https://img.shields.io/badge/Verilog-Digital%20Design-yellow?logo=circuitverse)
 ![ARM](https://img.shields.io/badge/ARM-Embedded%20C%20(Keil)-lightgrey?logo=arm)
