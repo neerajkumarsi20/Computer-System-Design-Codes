@@ -15,23 +15,22 @@ This repository contains all the code I've written, along with some reference co
 
 ### Directory Structure
 ```
-Root/
-├── Computer System Design/
-│   ├── adc.c
-│   ├── block_transfer.s
-│   ├── block_transfer_no_overlap.s
-│   ├── bsearch.s
-│   ├── bubble.s
-│   ├── fact.s
-│   ├── fibo.s
-│   ├── interrupt.c
-│   ├── led.c
-│   ├── lsearch.s
-│   ├── stepper_motor.c
-│   ├── sumofseries.s
-│   ├── switch.c
-│   ├── timer.c
-│   └── uart.c
+Computer System Design/
+├── adc.c
+├── block_transfer.s
+├── block_transfer_no_overlap.s
+├── bsearch.s
+├── bubble.s
+├── fact.s
+├── fibo.s
+├── interrupt.c
+├── led.c
+├── lsearch.s
+├── stepper_motor.c
+├── sumofseries.s
+├── switch.c
+├── timer.c
+├── uart.c
 ├── LICENSE.txt
 ├── README.md
 └── .gitignore
